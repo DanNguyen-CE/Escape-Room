@@ -1,0 +1,55 @@
+﻿---------------------------------------------
+Furniture & Decor:
+---------------------------------------------
+[✓] Fume hood
+[✓*] Basic Glassware (Flasks, test tubes, petri dish, etc.)
+[✓*] Complex Glassware (Condensation tube, large complex glassware setup)
+[✓] Workbenches w/ cabinets & gas output (for bunsen burner)
+[✓] Desks
+[✓] Sink
+[✓] Wall shelves/cabinets
+[✓] Test tube racks
+[X] Clamp & Stand (w/ buret)
+[X] Tongs
+[X] Dropper, Syringe & Pipette
+[X] Bookshelves
+[✓] Microscope
+[✓] Bunsen Burner, Rubber Tubing & Tripod
+[X] Lab Scale
+[X] Glass Rod
+[X] Safety Glasses
+[X] Rubber Gloves
+[~*] Papers, Pencils, Pens, Markers, Notebooks
+[✓] Chairs & Stools
+[✓] Overhead lighting & Lamps
+[✓] Posters & Wall Art
+[✓] Fire extinguisher
+[✓] Emergency shower & eye wash station
+[~] Misc Containers (Boxes, jugs, jars)
+[✓] Closet/Storage Unit
+[✓] Clock (Synchronized)
+[✓] Waste Disposal
+[X] Fridge
+[X] Coffee Mug
+
+* = downloaded models/assets
+
+---------------------------------------------
+Puzzles/Features:
+---------------------------------------------
+[✓] Morse code
+[X] Lots of locks
+[X] Obscure clues hidden in pictures
+[✓] Hidden book
+[X] Rearranging pictures
+[✓] Ciphers
+[✓] Riddles
+[X] Overlays
+[X] Lasers
+[X] QR Code
+[~] Hidden compartments
+[✓] "Blacklight"
+[X] Color Codes
+[~] Open/Closable & Locked/Unlocked Drawer/Cabinets/Fumehood
+[✓] Keypads
+---------------------------------------------

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1e3b90bc0411f004082a9abb747923d2
+timeCreated: 1555282730
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WC ROUGHTRAD Bta
+  fontNames:
+  - WC ROUGHTRAD Bta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

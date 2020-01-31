@@ -1,0 +1,79 @@
+CREDITS:
+================================================================================================================================================
+SHADERS:
+
++ MK Toon Shader - https://assetstore.unity.com/packages/vfx/shaders/mk-toon-free-68972
++ Blacklight - https://gist.github.com/runewake2/2a979d6bc91adc7ce693a5c00af8bed1
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+AUDIO:
+
++ Start Menu Track - https://freesound.org/people/dekstromoramid/sounds/435370/
++ End Credit Track - https://freesound.org/people/ispeakwaves/sounds/411867/
++ Door Open - https://freesound.org/people/InspectorJ/sounds/431117/
++ Ticking Clock - https://freesound.org/people/InspectorJ/sounds/343130/
++ Tap Water - https://freesound.org/people/kellett66/sounds/152848/
++ Propane Gas - https://freesound.org/people/shredder10/sounds/410416/
++ Explosion - https://freesound.org/people/V-ktor/sounds/435415/
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+TEXTURES/SPRITES:
+
++ Lab Floor - https://seoulcreation.files.wordpress.com/2014/03/lab-floor.jpg
++ Lab Wall - https://seoulcreation.files.wordpress.com/2014/03/lab-wall.jpg
++ Drop Ceiling - https://mobileimages.lowes.com/product/converted/042369/042369001953.jpg
++ Periodic Table - https://i.etsystatic.com/14259625/r/il/58a54d/1191725557/il_fullxfull.1191725557_q3tt.jpg
++ Frosted Glass - https://previews.123rf.com/images/torsakarin/torsakarin1302/torsakarin130200546/18098026-safety-frosted-glass-texture.jpg
++ Morse Code - https://st.hzcdn.com/simgs/40d16a4f0a201f05_4-5149/home-design.jpg
++ Chem Textbook Cover 1 - https://images-na.ssl-images-amazon.com/images/I/51HPfOJ4E2L._SX404_BO1,204,203,200_.jpg
++ Chem Textbook Cover 2 - https://images-na.ssl-images-amazon.com/images/I/51FP%2BT6mvNL._SX406_BO1,204,203,200_.jpg
++ Chem Textbook Cover 3 - https://i.pinimg.com/236x/a3/0d/57/a30d5714795f035131d2093fed37f320--library-catalog-sau.jpg
++ Chem Textbook Cover 4 - https://images-na.ssl-images-amazon.com/images/I/51Lx96H6t3L._SX384_BO1,204,203,200_.jpg
++ Chem Textbook Cover 5 - https://images.gr-assets.com/books/1328045805l/3414635.jpg
++ Chem Poster Retro 1 - https://static.vecteezy.com/system/resources/previews/000/225/570/original/chemistry-retro-poster-vector.jpg
++ Chem Poster Retro 2 - https://i.pinimg.com/originals/4f/e7/f4/4fe7f427600b8df1fe455ca54971245f.jpg
++ Chem Poster Retro 3 - https://i.pinimg.com/originals/8f/cf/26/8fcf267f869d0348971530109adf8160.jpg
++ Chem Poster Retro 4 - http://www.magic-of-color.com/?p=2307
++ Chem Poster Retro 5 - https://i.pinimg.com/originals/8d/f5/d5/8df5d51942f7074a0a84e35edcae466f.jpg
++ Chem Poster Modern 1 - https://www.allposters.com/-sp/Think-Like-A-Proton-Gray-Posters_i15237653_.htm?UPI=F92LG50&sOrigID=42207
++ Chem Poster Modern 2 - https://www.allposters.com/-sp/Chemists-Have-All-The-Solutions-Black-Posters_i15238194_.htm?UPI=F92LV60&sOrigID=42207
++ Chem Poster Modern 3 - https://www.allposters.com/-sp/Chemistry-Infographic-Posters_i10861445_.htm?UPI=POER8B0&PODConfigID=9201946&sOrigID=42207
++ Glass Disposal - https://www.dynalon.com/PublicStore/images/temp/Product-2939.jpg
++ Fire Hazard - https://images.mysafetysign.com/img/lg/I/iso-fire-hazard-warning-symbol-is-2059.png
++ Bio Hazard - https://images.mysafetysign.com/img/lg/I/iso-biological-hazard-warning-symbol-is-2023.png
++ Chem Caution - https://store.graphicproducts.com/asset/catalog/Duralabel/preprint/0166.png
++ NFPA Sign - https://www.safetysign.com/images/source/product-grid-images/M3351.png
++ NFPA Poster - https://cloudfront.zoro.com/product/full/Z-xIFvicpEx_.JPG
++ Splatter 1 - https://www.rpnation.com/gallery/paint-splatter-3.28952/full
++ Splatter 2 - https://www.onlygfx.com/wp-content/uploads/2017/03/black-paint-splatter-3.png
++ Splatter 3 - http://pluspng.com/img-png/splatter-png-free-download-paint-splatter-2-png-1375.png
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+MODELS:
+
++ Free Laboratory Pack - https://assetstore.unity.com/packages/3d/props/tools/free-laboratory-pack-123782
++ Chemistry Set - https://www.turbosquid.com/FullPreview/Index.cfm/ID/511591
++ Fire Extinguisher - https://www.turbosquid.com/FullPreview/Index.cfm/ID/751366
++ Books & Paper - https://www.turbosquid.com/FullPreview/Index.cfm/ID/541553
++ Wall Socket - https://www.turbosquid.com/FullPreview/Index.cfm/ID/836657
++ Desk Lamp - https://www.turbosquid.com/FullPreview/Index.cfm/ID/967784
++ Chemical Container - https://www.turbosquid.com/FullPreview/Index.cfm/ID/472713
++ Organizer - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1309930
++ Wireframe Trash - https://www.turbosquid.com/FullPreview/Index.cfm/ID/772225
++ Trash Bin A - https://www.turbosquid.com/FullPreview/Index.cfm/ID/740796
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+SCRIPTS:
+
++ DontGoThroughThings - http://wiki.unity3d.com/index.php/DontGoThroughThings
++ Simulate Mouse Click - https://answers.unity.com/questions/564664/how-i-can-move-mouse-cursor-without-mouse-but-with.html
++ Flash in Morse Code - http://theflyingkeyboard.net/unity/unity-c-flashing-object-in-morse-code/
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+FONTS:
++ En Garde - https://www.dafont.com/en-garde.font
++ WC ToughTrad Bta - https://www.dafont.com/wc-roughtrad-bta.font
++ LCD-Bold - https://www.dafont.com/lcd-lcd-mono.font
++ Veteran Typewriter - https://www.dafont.com/veteran-typewriter.font
+
+------------------------------------------------------------------------------------------------------------------------------------------------

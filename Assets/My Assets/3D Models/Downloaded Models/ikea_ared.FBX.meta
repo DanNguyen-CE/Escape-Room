@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: ddba94013df4af44cbe2201d57ec7df3
+timeCreated: 1556118418
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: lamp_MeshPart0
+    100004: lamp_MeshPart1
+    100006: lamp_MeshPart10
+    100008: lamp_MeshPart11
+    100010: lamp_MeshPart12
+    100012: lamp_MeshPart13
+    100014: lamp_MeshPart14
+    100016: lamp_MeshPart15
+    100018: lamp_MeshPart16
+    100020: lamp_MeshPart2
+    100022: lamp_MeshPart3
+    100024: lamp_MeshPart4
+    100026: lamp_MeshPart5
+    100028: lamp_MeshPart6
+    100030: lamp_MeshPart7
+    100032: lamp_MeshPart8
+    100034: lamp_MeshPart9
+    400000: //RootNode
+    400002: lamp_MeshPart0
+    400004: lamp_MeshPart1
+    400006: lamp_MeshPart10
+    400008: lamp_MeshPart11
+    400010: lamp_MeshPart12
+    400012: lamp_MeshPart13
+    400014: lamp_MeshPart14
+    400016: lamp_MeshPart15
+    400018: lamp_MeshPart16
+    400020: lamp_MeshPart2
+    400022: lamp_MeshPart3
+    400024: lamp_MeshPart4
+    400026: lamp_MeshPart5
+    400028: lamp_MeshPart6
+    400030: lamp_MeshPart7
+    400032: lamp_MeshPart8
+    400034: lamp_MeshPart9
+    2300000: lamp_MeshPart0
+    2300002: lamp_MeshPart1
+    2300004: lamp_MeshPart10
+    2300006: lamp_MeshPart11
+    2300008: lamp_MeshPart12
+    2300010: lamp_MeshPart13
+    2300012: lamp_MeshPart14
+    2300014: lamp_MeshPart15
+    2300016: lamp_MeshPart16
+    2300018: lamp_MeshPart2
+    2300020: lamp_MeshPart3
+    2300022: lamp_MeshPart4
+    2300024: lamp_MeshPart5
+    2300026: lamp_MeshPart6
+    2300028: lamp_MeshPart7
+    2300030: lamp_MeshPart8
+    2300032: lamp_MeshPart9
+    3300000: lamp_MeshPart0
+    3300002: lamp_MeshPart1
+    3300004: lamp_MeshPart10
+    3300006: lamp_MeshPart11
+    3300008: lamp_MeshPart12
+    3300010: lamp_MeshPart13
+    3300012: lamp_MeshPart14
+    3300014: lamp_MeshPart15
+    3300016: lamp_MeshPart16
+    3300018: lamp_MeshPart2
+    3300020: lamp_MeshPart3
+    3300022: lamp_MeshPart4
+    3300024: lamp_MeshPart5
+    3300026: lamp_MeshPart6
+    3300028: lamp_MeshPart7
+    3300030: lamp_MeshPart8
+    3300032: lamp_MeshPart9
+    4300000: lamp_MeshPart0
+    4300002: lamp_MeshPart1
+    4300004: lamp_MeshPart2
+    4300006: lamp_MeshPart3
+    4300008: lamp_MeshPart4
+    4300010: lamp_MeshPart5
+    4300012: lamp_MeshPart6
+    4300014: lamp_MeshPart7
+    4300016: lamp_MeshPart8
+    4300018: lamp_MeshPart9
+    4300020: lamp_MeshPart10
+    4300022: lamp_MeshPart11
+    4300024: lamp_MeshPart12
+    4300026: lamp_MeshPart13
+    4300028: lamp_MeshPart14
+    4300030: lamp_MeshPart15
+    4300032: lamp_MeshPart16
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 90
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,80 @@
+===================
+PROJECT EVENT LOG:
+=================== {Note: not everything was logged.}
+
+[04-04-19] Project idea realised. First thoughts of features to implement and scenes to create.
+[04-05-19] Start on creation of project proposal.
+	   Start on planning project (features, assets, themes, design, checklist)
+[04-06-19] Submission of project proposal.
+	   >> Work on project BEGINS. <<
+	   After hours of searching and experimenting, find a very good FREE "toon"/"cel shading" shader by MK.
+	   Experimentation begins with glassware assets from Unity Store (1).
+	   Start and finish creation of first original asset --> "Fume Hood" (2)
+[04-07-19] Start and finish creation of "Door" & "South Wall" (3)
+	   Start and finish creation of "Workbench" (4)
+[04-08-19] Start and finish creation of "Sink" (5)
+[04-09-19] Maintain project files.
+	   Polish material palette and update prefabs.
+	   Start creation of "Microscope"
+[04-10-19]
+[04-11-19] Finish creation of "Microscope" (6)
+	   Start and finish creation of "Desk" (7)
+[04-12-19] Experimentation with picking up and moving objects scripting. (Basic implementation complete)
+	   Collision for fast objects problem due to fast user input bugged.
+	   Solved via scripting.
+	   Add crosshair. (8)
+	   Start and finish creation of "Clock"
+	   Add realtime clock script. (9)
+[04-13-19] Add water particle effect for sink. (10)
+	   Start and finish creation of "Bunsen Burner" (11)
+[04-14-19] Update crosshair to single dot in middle of screen.
+	   Add ceiling light panels. (12)
+	   Add Main Menu (w/ smooth transition) (13)
+[04-15-19] Start creation of "Chair"
+[04-16-19] Finish creation of "Chair" (14)
+[04-17-19]
+[04-18-19]
+[04-19-19] Add 3D clock ticking sound.
+	   Add complex glassware (downloaded) (15)
+[04-20-19]
+[04-21-19]
+[04-22-19]
+[04-23-19] Add top cabinets (16)
+	   Add desk items, fire extinguisher (17), morse code poster (downloaded) 
+[04-24-19] Add textbooks w/ real textbook covers (18)
+	   Add lamp w/ Morse Code script (19)
+	   Add chemistry posters (20)
+	   Add outlet socket (21)
+[04-25-19] Add animations to drawers, doors, and fume hood covers
+	   Add script to open/close them.
+[04-26-19]
+[04-27-19]
+[04-28-19]
+[04-29-19]
+[04-30-19]
+[05-01-19] Start and finish creation of gas taps (22)
+[05-02-19]
+[05-03-19] Add miscellaneous decorations/objects to populate scene
+	   Finish interactive bunsen burner (23)
+[05-04-19] Add trashbins & organizer (24)
+	   Start and finish creation of standing cabinets (25)
+[05-05-19]
+[05-06-19]
+[05-07-19]
+[05-08-19] Start creation of credits video
+[05-09-19] Start and finish creation of keypad
+[05-10-19] Add implementation of keypad (26)
+	   Start and finish creation of emergency shower (27)
+[05-11-19]
+	   Start written report
+	   Start wrapping up loose ends
+[05-12-19]
+	   Finish written report
+	   Finish wrapping up
+[05-13-19] Final touches
+	   >> Work on project ENDS.<<
+[05-14-19] DEMO DAY! @ 1:15 PM
+
+===================
+LOG END
+===================
